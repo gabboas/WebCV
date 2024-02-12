@@ -1,0 +1,11 @@
+#span__toggle{
+    margin: 50px 50px 50px 10px;
+    cursor: pointer;
+}
+
+.div__line{
+    background-color: black;
+    height: 5px;
+    width: 45px;
+    margin: 5px 0px 5px 20px;
+}

@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+
+
+#expansiondiv_container {
+  display: flex;
+  background-color: rgb(16, 65, 48);
+  font-size: 30px;
+  color: white;
+}
