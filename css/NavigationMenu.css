@@ -3,7 +3,7 @@ nav {
   padding: 0px 0px;
   width: 420px;
   display: block;
-  transition: left 1s ease-in-out;
+  transition: left 0.6s ease-in-out;
   position: relative;
   left: -101%;
 }
@@ -24,7 +24,7 @@ li {
   display: block;
   background-color: rgb(28, 136, 98);
   margin-top: 0px;
-  border-bottom: 2px solid rgb(255, 255, 255);
+  border-bottom: 2px solid rgb(160, 190, 179);
 }
 
 a {
